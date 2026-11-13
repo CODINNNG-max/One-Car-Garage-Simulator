@@ -1,2 +1,2 @@
-# One-Caf-Garage-Simulator
+# One-Car-Garage-Simulator
 A command line Python program using Obejct Oriented Programming 
