@@ -40,7 +40,7 @@ class Electric(Car):
         print(f'Charging the {self.battery} battery')
         
     def display_info(self):
-        print(f"You currently own a {self.year} {self.make} {self.model} with a {self.battery}kW battery")
+        print(f"You currently own a {self.year} {self.make} {self.model} with a {self.battery}KWh battery")
 
 class Garage:
     def __init__(self):
